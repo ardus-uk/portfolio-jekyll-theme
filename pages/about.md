@@ -4,6 +4,18 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Wayfinding strategy and design management
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+With over a decade of experience in the creative industries, Rachael has an extensive record in developing wayfinding strategies alongside managing a diverse range of projects encompassing environmental and interpretation graphics, editorial and branding. Her passion for excellence is combined with a proactive, methodical approach and a keen eye for detail.
+
+
+# Clients / Projects
+* Geffrye Museum / Unlocking the Geffrye
+* London Business School
+* London College of Fashion / East Bank
+* Sadler’s Wells / East Bank
+* Science Museum Group / Medicine: The Wellcome Galleries
+* Sellar / Paddington Square
+* Stanhope / Television Centre
+* Unbound / Letters to a Beekeeper
+* Yorkshire Sculpture Park
